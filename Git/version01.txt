@@ -3,3 +3,5 @@ This is the first feature of our application.
 This is the bug fix in development branch.
 
 Changes made to check how git rebase works.
+
+Made some more changes.
